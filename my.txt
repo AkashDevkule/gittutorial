@@ -7,3 +7,4 @@ rm -rf .git          -: Delete repository
 Git clone URl 
 touch file_name     -: create an file with file name
 touch gitignor 
+Radhe Radhe
