@@ -1,0 +1,9 @@
+q : for quit 
+git status
+git add --a 		-: staging all file
+git commit -m "msg"
+git log
+rm -rf .git          -: Delete repository
+Git clone URl 
+touch file_name     -: create an file with file name
+touch gitignor 
