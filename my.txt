@@ -1,8 +1,9 @@
 q : for quit 
 git status
-git add --a 		-: staging all file
+git add --a /.		-: staging all file
 git commit -m "msg"
-git log
+git log			-:	to look changes 
+git config --global user.name "" user.email ""   :- 
 rm -rf .git          -: Delete repository
 Git clone URl 
 touch file_name     -: create an file with file name
