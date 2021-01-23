@@ -1,12 +1,17 @@
+Radhe Radhe :)
+
 q : for quit 
-git status
+git status  
 git add --a /.		-: staging all file
 git commit -m "msg"
 git log			-:	to look changes 
 git config --global user.name "" user.email ""   :- 
 rm -rf .git          -: Delete repository
 Git clone URl 
-touch file_name     -: create an file with file name
-touch gitignor 
-Radhe Radhe
+touch <file_name>     -: create an file with file name
+git remote add origin <url>	 :- create an origin
+git branch -m main :- to set branch 
+git push -u origin main	:- push staged file to repository 
+touch <.gitignor :- add <file_name> in >	-: ingnor the file in folder
 version 3
+
