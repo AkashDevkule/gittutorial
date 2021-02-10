@@ -2,15 +2,12 @@ Radhe Radhe :)
 
 Following are the useful commands -
 q : for quit 
-git status :- to see how our code compares to the code on 				the remote repository 
-
-git add --a /.		-: staging all file
-git commit -m "msg"  -:After making some changes to a 					file, we can commit those changes, 					taking a snapshot of the current 					state of our code
-
-git log			-:	to look changes
-
-git config --global user.name "" user.email ""   :- disply 							all confing status
-rm -rf .git          -: Delete repository
+git status :- to see how our code compares to the code on the remote repository 
+git add --a /.	-: staging all file
+git commit -m "msg"  -:After making some changes to a file, we can commit those changes,taking a snapshot of the current state of our code
+git log -: to look changes
+git config --global user.name "" user.email "" :- disply all confing status
+rm -rf .git -: Delete repository
 Git clone URl
 touch <file_name>     -: create an file with file name
 git remote add origin <url>	 :- create an origin
@@ -19,6 +16,6 @@ git push -u origin main :- push staged file to repository
 touch <.gitignor :- add <file_name> in >	-: ingnor the file in folder
 git branch   :- to see which branch you’re currently working on
 git checkout -b <new branch name> :- To make a new branch
-git merge <other branch name> :-to merge our two branches 						together	
+git merge <other branch name> :-to merge our two branches together	
 
 
