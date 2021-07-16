@@ -2,6 +2,7 @@ Radhe Radhe :)
 
 Following are the useful commands -
 q : for quit 
+git init :- used to  initialize a new, empty repository
 git status :- to see how our code compares to the code on the remote repository 
 git add --a /.	-: staging all file
 git commit -m "msg"  -:After making some changes to a file, we can commit those changes,taking a snapshot of the current state of our code
